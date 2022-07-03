@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AlunoTwoExe",
+            "request": "launch",
+            "mainClass": "aplicacao.AlunoTwoExe",
+            "projectName": "poo_910438b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlunoExe",
+            "request": "launch",
+            "mainClass": "aplicacao.AlunoExe",
+            "projectName": "poo_910438b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdutoExe",
+            "request": "launch",
+            "mainClass": "aplicacao.ProdutoExe",
+            "projectName": "poo_910438b1"
+        },
+        {
+            "type": "java",
             "name": "Launch VeiculoExe",
             "request": "launch",
             "mainClass": "exercicios.VeiculoExe",
